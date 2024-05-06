@@ -4,7 +4,7 @@ This is my home page! My name is DUONG MANH VU and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is https://duong.github.io/.
+My GitHub page is https://amao4t.github.io/.
 
 ### CPSC 120
 
